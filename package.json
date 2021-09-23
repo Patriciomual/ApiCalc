@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Patriciomual/api-random-pi.git"
+    "url": "git+https://github.com/Patriciomual/ApiCalc.git"
   },
   "author": "Patricio Muñoz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Patriciomual/api-random-pi/issues"
+    "url": "https://github.com/Patriciomual/ApiCalc.git/issues"
   },
-  "homepage": "https://github.com/Patriciomual/api-random-pi#readme",
+  "homepage": "https://github.com/Patriciomual/ApiCalc.git#readme",
   "dependencies": {
     "express": "^4.17.1",
     "morgan": "^1.10.0",
