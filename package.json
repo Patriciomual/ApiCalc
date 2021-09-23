@@ -1,0 +1,28 @@
+{
+  "name": "api-random-pi",
+  "version": "1.0.0",
+  "description": "calculate the decimals of pi considering the random number",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patriciomual/api-random-pi.git"
+  },
+  "author": "Patricio Muñoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Patriciomual/api-random-pi/issues"
+  },
+  "homepage": "https://github.com/Patriciomual/api-random-pi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "supertest": "^6.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
